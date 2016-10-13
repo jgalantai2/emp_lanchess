@@ -1,0 +1,8 @@
+F:\Development\emp_lanchess\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+F:\Development\emp_lanchess\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+F:\Development\emp_lanchess\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+F:\Development\emp_lanchess\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+F:\Development\emp_lanchess\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+F:\Development\emp_lanchess\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+F:\Development\emp_lanchess\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+F:\Development\emp_lanchess\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
